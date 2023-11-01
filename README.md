@@ -1,0 +1,156 @@
+# ArtisticMedium for human reference, LLM's know these terms as Artistic Medium
+- Acrylic paint
+- Oil paint
+- Watercolor paint
+- Gouache
+- Tempera
+- Encaustic (wax) paint
+- Pastel (soft, hard, oil)
+- Charcoal
+- Graphite pencil
+- Colored pencil
+- Ink
+- Ballpoint pen
+- Marker
+- Aerosol (spray paint)
+- Linocut
+- Woodcut
+- Etching
+- Lithography
+- Screen printing
+- Monotype
+- Mezzotint
+- Aquatint
+- Digital painting
+- Vector graphics
+- 3D modeling
+- Digital collage
+- Pixel art
+- Digital animation
+- Ceramic (earthenware, stoneware, porcelain)
+- Pottery
+- Terracotta
+- Polymer clay
+- Metal (bronze, steel, iron, gold, silver)
+- Glassblowing
+- Stained glass
+- Mosaic
+- Fresco
+- Collage (paper, fabric)
+- Mixed media
+- Textile (weaving, knitting, crochet)
+- Tapestry
+- Embroidery
+- Quilting
+- Batik
+- Macramé
+- Lacework
+- Leatherwork
+- Featherwork
+- Beadwork
+- Jewelry (metalsmithing, beading, wirework)
+- Papercraft
+- Origami
+- Papier-mâché
+- Calligraphy
+- Typography
+- Bookbinding
+- Letterpress printing
+- Relief printing
+- Intaglio printing
+- Photography (film, digital, pinhole)
+- Cyanotype
+- Daguerreotype
+- Photogram
+- Digital photo manipulation
+- Film (8mm, 16mm, 35mm, digital)
+- Video art
+- Sound art
+- Performance art
+- Installation art
+- Conceptual art
+- Environmental art
+- Land art
+- Street art
+- Graffiti
+- Mural
+- Body paint
+- Tattoo
+- Henna
+- Wood (carving, turning, marquetry)
+- Stone carving
+- Marble sculpting
+- Plaster
+- Resin
+- Sand art
+- Ice sculpture
+- Soapstone
+- Alabaster
+- Bone carving
+- Ivory carving
+- Shell
+- Coral
+- Paper cutting
+- Shadow boxes
+- Assemblage
+- Found object
+- Neon
+- Light art
+- Kinetic sculpture
+- Mobiles
+- Automata
+- Virtual reality art
+- Augmented reality art
+- Bio art
+- Interactive art
+- Algorithmic art
+- Generative art
+- Net art
+- ASCII art
+- Glitch art
+- Video game design
+- Puppetry
+- Doll-making
+- Mask-making
+- Basket weaving
+- Floral design
+- Graffiti stencil
+- Scratchboard
+- Drypoint
+- Wood engraving
+- Digital printmaking
+- CGI animation
+- Stop motion animation
+- Traditional animation
+- Metalpoint (silverpoint, goldpoint)
+- Pyrography (wood burning)
+- Frottage
+- Rubbing
+- Decoupage
+- Felting
+- Spin art
+- String art
+- Nail and thread art
+- Body casting
+- Glass casting
+- Lost-wax casting
+- Diorama
+- Miniature art
+- Miniture model building
+- Toy design
+- Art toy
+- Plush art
+- Stencil
+- Silkscreen
+- Block printing on fabric
+- Artistic welding
+- Blacksmithing
+- Metal embossing
+- Chainmail art
+- Mail art
+- Zine art
+- Artist's books
+- Tunnel books
+- Pop-up art
+- Faux finishing
+- Gilding
